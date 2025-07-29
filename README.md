@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shrihari Bhilwadikar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+- 🔭 I’m currently working on **Web dev projects**
 
-
-- 🌱 I’m currently learning **Data structure & algorithms**
+- 🌱 I’m currently learning **Data structure & algorithms, React, JavaScript**
 
 - 💬 Ask me about **JavaScript, React, Web Development**
 
