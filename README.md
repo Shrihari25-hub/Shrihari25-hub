@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Web dev projects**
 
-- 🌱 I’m currently learning **Data structure & algorithms, React, JavaScript**
+- 🌱 I’m currently learning **Data structure & algorithms, React, JavaScript, AWS Cloud**
 
 - 💬 Ask me about **JavaScript, React, Web Development**
 
